@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ui-react-code-editor/static/css/main.ce1051da.css",
+    "main.js": "/ui-react-code-editor/static/js/main.a729f272.js",
+    "static/media/html-icon.png": "/ui-react-code-editor/static/media/html-icon.b2db3a7f6897f0a6e75c.png",
+    "static/media/css-icon.png": "/ui-react-code-editor/static/media/css-icon.d2811e5969760ef58072.png",
+    "static/media/js-icon.png": "/ui-react-code-editor/static/media/js-icon.70e1505e0bbb9df70c82.png",
+    "static/media/copy.svg": "/ui-react-code-editor/static/media/copy.0adafde69e20ff44658607efedc242d0.svg",
+    "static/media/close.svg": "/ui-react-code-editor/static/media/close.6ea6e49e44a9c1cca0d11903b710a263.svg",
+    "index.html": "/ui-react-code-editor/index.html",
+    "static/media/collapse.svg": "/ui-react-code-editor/static/media/collapse.1f2f7d601c49abd4fc1a4ac11759c0f8.svg",
+    "main.ce1051da.css.map": "/ui-react-code-editor/static/css/main.ce1051da.css.map",
+    "main.a729f272.js.map": "/ui-react-code-editor/static/js/main.a729f272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce1051da.css",
+    "static/js/main.a729f272.js"
+  ]
+}
