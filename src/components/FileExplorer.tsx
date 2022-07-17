@@ -29,33 +29,6 @@ const FileExplorer: React.FC<FileExplorerInt> = ({
   const [shareOpen, setShareOpen] = React.useState(false)
   const [postLimitExceeded, setPostLimitExceeded] = React.useState(false)
   const handleShare = async () => {
-    // try {
-    //   const payload = {
-    //     html: htmlCode,
-    //     css: cssCode,
-    //     js: jsCode
-    //   }
-    //   const form = new FormData()
-    //   form.append('api_dev_key', 'MRQPY0SIBcKo0LpB_2k8RzMOSb0KULBI')
-    //   form.append('api_option', 'paste')
-    //   form.append('api_paste_code', JSON.stringify(payload))
-    //   const res = await axios({
-    //     method: 'post',
-    //     url: '/api/api_post.php',
-    //     data: form,
-    //     headers: { 'Content-Type': 'multipart/form-data' }
-    //   })
-
-    //   // const res = { data: 'https://pastebin.com/BBqnYGTN' }
-
-    //   const array = res.data.split('/')
-    //   const lastsegment = array[array.length - 1]
-    //   setShareLink('https://deepagrawal.github.io/codeditor?id=' + lastsegment)
-    //   setShareOpen(true)
-    // } catch (error) {
-    //   setShareOpen(true)
-    //   setPostLimitExceeded(true)
-    // }
   }
 
   return (

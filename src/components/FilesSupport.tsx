@@ -7,7 +7,7 @@ const CSSCode = `h1 {
 
 const HTMLCode = `<!-- Start writing HTML (no need of html and body tags) -->
 <h1>
-    Welome !!!
+  Hello Cakap !!!
 </h1>`
 
 interface supportedFileTypesInt {
