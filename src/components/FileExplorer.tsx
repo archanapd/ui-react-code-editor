@@ -62,7 +62,7 @@ const FileExplorer: React.FC<FileExplorerInt> = ({
         </div>
         <div className='share-btn-container'>
           <button className='share-btn' onClick={handleShare}>
-            Built for Cakap
+            Submit the code
           </button>
         </div>
       </div>
